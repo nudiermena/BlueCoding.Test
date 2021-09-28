@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCoding.Test", "BlueCoding.Test.csproj", "{AD356779-CEDF-4EF6-9357-6A297536422C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD356779-CEDF-4EF6-9357-6A297536422C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD356779-CEDF-4EF6-9357-6A297536422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD356779-CEDF-4EF6-9357-6A297536422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD356779-CEDF-4EF6-9357-6A297536422C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F2B061-88C0-40F5-9692-4CB5C254ECF9}
+	EndGlobalSection
+EndGlobal
